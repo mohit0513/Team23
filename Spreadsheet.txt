@@ -1,0 +1,18 @@
+Front end 
+Coding , Gui designing - Mohit -1003
+Unit Testing - Mohit Wedneday
+
+Middle End
+
+Wireframing- Vinod-2028
+Rest - Vipul-1034
+Session Beans- Parul
+Entity - Vipul
+Deadline -Wednesday-1062
+
+
+Back End
+Data extraction from database And converting into a suitable format. Monday
+Gaurav -2066
+
+Unit Testing - Sandesh Arya-1028
