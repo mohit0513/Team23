@@ -1,0 +1,432 @@
+c:\users\grad48\documents\visual studio 2015\Projects\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+c:\users\grad48\documents\visual studio 2015\Projects\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+c:\users\grad48\documents\visual studio 2015\Projects\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+c:\users\grad48\documents\visual studio 2015\Projects\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+c:\users\grad48\documents\visual studio 2015\Projects\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\App.g.cs
+c:\users\grad48\documents\visual studio 2015\Projects\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+c:\users\grad48\documents\visual studio 2015\Projects\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+c:\users\grad48\documents\visual studio 2015\Projects\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+c:\users\grad48\documents\visual studio 2015\Projects\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+c:\users\grad48\documents\visual studio 2015\Projects\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+c:\users\grad48\documents\visual studio 2015\Projects\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+c:\users\grad48\documents\visual studio 2015\Projects\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+c:\users\grad48\documents\visual studio 2015\Projects\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Documents\Visual Studio 2015\Projects\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+F:\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+F:\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+F:\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad59\Desktop\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+C:\Users\Grad59\Desktop\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad59\Desktop\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad59\Desktop\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+C:\Users\Grad59\Desktop\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+C:\Users\Grad59\Desktop\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\App.g.cs
+C:\Users\Grad59\Desktop\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+C:\Users\Grad59\Desktop\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+C:\Users\Grad59\Desktop\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad59\Desktop\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad59\Desktop\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+C:\Users\Grad59\Desktop\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+C:\Users\Grad59\Desktop\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+C:\Users\Grad59\Desktop\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+H:\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+H:\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+H:\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+I:\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+I:\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+I:\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+I:\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+I:\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+I:\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+I:\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+I:\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\App.g.cs
+I:\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+I:\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+I:\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+I:\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+I:\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+I:\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\Basket.g.cs
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\HistoricalData.g.cs
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\OtherWindow.g.cs
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\PeerComparison.g.cs
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\StockWindow.g.cs
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\App.g.cs
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\Basket.baml
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\HistoricalData.baml
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\OtherWindow.baml
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\PeerComparison.baml
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\StockWindow.baml
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+C:\Users\Grad59\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\OtherWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\PeerComparison.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\StockWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\App.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\OtherWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\PeerComparison.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\StockWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\BasketWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\BasketWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\SectorWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\SectorWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.baml
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\BasketWindow.g.cs
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\OtherWindow.g.cs
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\PeerComparison.g.cs
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\SectorWindow.g.cs
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.g.cs
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\StockWindow.g.cs
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\App.g.cs
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\BasketWindow.baml
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\OtherWindow.baml
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\PeerComparison.baml
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\SectorWindow.baml
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.baml
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\StockWindow.baml
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+I:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+H:\MarketAnalysisBasic28\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+H:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+H:\MarketAnalysisBasic28\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\BasketWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\OtherWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\PeerComparison.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\SectorWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\StockWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\App.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\BasketWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\OtherWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\PeerComparison.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\SectorWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\StockWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\BasketWindow.g.cs
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\PeerComparison.g.cs
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\SectorWindow.g.cs
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.g.cs
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\StockWindow.g.cs
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\App.g.cs
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\BasketWindow.baml
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\PeerComparison.baml
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\SectorWindow.baml
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.baml
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\StockWindow.baml
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+I:\MarketAnalysisBasic29\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+H:\MarketAnalysisBasic30\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+H:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+H:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\BasketWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\PeerComparison.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\SectorWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\StockWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\App.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\BasketWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\PeerComparison.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\SectorWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\StockWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\BasketWindow.g.cs
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\PeerComparison.g.cs
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\SectorWindow.g.cs
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.g.cs
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\StockWindow.g.cs
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\App.g.cs
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\BasketWindow.baml
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\PeerComparison.baml
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\SectorWindow.baml
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.baml
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\StockWindow.baml
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\LoginWindow.g.cs
+F:\MarketAnalysisBasic30\MarketAnalysisBasic\obj\Debug\LoginWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\BasketWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\PeerComparison.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\SectorWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\App.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\BasketWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\PeerComparison.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\SectorWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\BasketWindow.g.cs
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\PeerComparison.g.cs
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\SectorWindow.g.cs
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.g.cs
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockWindow.g.cs
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\App.g.cs
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\BasketWindow.baml
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\PeerComparison.baml
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\SectorWindow.baml
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.baml
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockWindow.baml
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+F:\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\BasketWindow.g.cs
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\PeerComparison.g.cs
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\SectorWindow.g.cs
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.g.cs
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockWindow.g.cs
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\App.g.cs
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\BasketWindow.baml
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\PeerComparison.baml
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\SectorWindow.baml
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.baml
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockWindow.baml
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+C:\Users\Grad48\Desktop\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\BasketWindow.g.cs
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\PeerComparison.g.cs
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\SectorWindow.g.cs
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.g.cs
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockWindow.g.cs
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\App.g.cs
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\BasketWindow.baml
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\PeerComparison.baml
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\SectorWindow.baml
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.baml
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\StockWindow.baml
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+I:\30\MarketAnalysisBasic30 - Copy\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\BasketWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\PeerComparison.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\SectorWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockWindow.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\App.g.cs
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\BasketWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\PeerComparison.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\SectorWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockWindow.baml
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\BasketWindow.g.cs
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\PeerComparison.g.cs
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\SectorWindow.g.cs
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.g.cs
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockWindow.g.cs
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\App.g.cs
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\BasketWindow.baml
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\PeerComparison.baml
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\SectorWindow.baml
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.baml
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockWindow.baml
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\WPFToolkit.dll
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\Grad48\Desktop\New folder\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\WPFToolkit.pdb
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+F:\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\WPFToolkit.pdb
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\WPFToolkit.pdb
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\BasketWindow.g.cs
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\PeerComparison.g.cs
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\SectorWindow.g.cs
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.g.cs
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockWindow.g.cs
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\App.g.cs
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\BasketWindow.baml
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\PeerComparison.baml
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\SectorWindow.baml
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.baml
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockWindow.baml
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+C:\Users\Grad48\Desktop\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe.config
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.exe
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.pdb
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.exe
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\MarketAnalysisBasic.pdb
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\bin\Debug\WPFToolkit.pdb
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csprojResolveAssemblyReference.cache
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\BasketWindow.g.cs
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MainWindow.g.cs
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\PeerComparison.g.cs
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\SectorWindow.g.cs
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.g.cs
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockWindow.g.cs
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\App.g.cs
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.cache
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic_MarkupCompile.lref
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\BasketWindow.baml
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MainWindow.baml
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\PeerComparison.baml
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\SectorWindow.baml
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockExchangeWindow.baml
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\StockWindow.baml
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.g.resources
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.Properties.Resources.resources
+F:\31\MarketAnalysisBasic31\MarketAnalysisBasic\obj\Debug\MarketAnalysisBasic.csproj.GenerateResource.Cache

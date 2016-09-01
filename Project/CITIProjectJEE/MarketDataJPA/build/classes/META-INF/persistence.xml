@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	
+<persistence-unit transaction-type="JTA" name="MarketDataJPA">
+
+<!--  <provider>org.hibernate.ejb.HbernatePersistence</provider>  -->
+
+<jta-data-source>java:jboss/datasources/mydb</jta-data-source>
+
+		<class>model.Countries</class>
+		<class>model.Regions</class>
+		<class>model.Exchangemarkets</class>
+		<class>solution.marketdata.ejb.Stockdetails</class>
+		<class>solution.marketdata.ejb.Stocksdummy</class>
+	</persistence-unit>
+</persistence>
